@@ -1,2 +1,2 @@
 # virtualRecipeBook
-For Netbeans IDE -
+For Netbeans IDE
