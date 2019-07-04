@@ -1,0 +1,172 @@
+Recipe:
+1
+Egg fried rice
+efrimagepath
+this recipe is very easy
+10
+Spring
+East Asia
+true
+true
+first soak the lentils in cold water for 20 minutes, then add one cup lentils to one cup water and boil for 20 minutes, when the water has evaporated you have daal.
+Ingredient:
+1
+rice
+daalimagepath
+rice is grain
+23.5
+g
+Ingredient:
+2
+egg
+eggimagepath
+egg is laid by a chicken
+50
+g
+##End Of Ingredients##
+Utensil:
+3
+spatula
+spatulaimage
+this is for whipping and flipping
+5
+##End Of Utensils##
+Recipe:
+2
+thai curry
+tciamgepath
+this is a creamy coconutmilk based curry, mm yummy!
+45
+Winter
+East Asia
+false
+false
+first do this and then do this and then do this
+Ingredient:
+3
+chicken breast
+cbimagepath
+chicken breast is a cut of chicken
+100.0
+g
+Ingredient:
+4
+coconut milk
+cmimagepath
+the milk of a coconut
+150.0
+ml
+##End Of Ingredients##
+Utensil:
+4
+bowl
+bowlimagepath
+this bowl can contain a liquid type dish
+6
+##End Of Utensils##
+Recipe:
+6
+Chicken tikka
+CTimageepath
+this is an indian dish based on a tikka masala, mm yummy!
+60
+Spring
+India
+false
+false
+first do this and then do this and then do this
+Ingredient:
+11
+chicken thigh
+chimagepath
+A juicy chicken thigh!
+200
+g
+Ingredient:
+223
+tikka masala
+tikkamasalaimagepath
+a great ready made sauce for you to cook with!
+75
+g
+Ingredient:
+2121
+Basmati rice
+brImagePath
+a typical rice grain used in asian dishes
+100
+g
+##End Of Ingredients##
+Utensil:
+12
+ricecooker
+rcimagepath
+An easy way to make rice!
+6
+##End Of Utensils##
+Recipe:
+90
+Jerk Chicken
+JCiamgepath
+You have to cook the chicken in jerk sauce
+75
+Summer
+Caribbean
+false
+true
+first do this and then do this and then do this
+Ingredient:
+231
+whole chicken
+wcimagepath
+Wow! a WHOLE chicken! 
+1000
+g
+Ingredient:
+343
+jerk seasoning
+jsimagepath
+This looks like reggae reggae sauce!
+25
+g
+##End Of Ingredients##
+Utensil:
+12123
+pan
+panimagepath
+this is a durable pan
+6
+##End Of Utensils##
+Recipe:
+5
+Steak and chips
+SCImagepath
+This is a simple, traditional dish, mm yummy!
+15
+Autumn
+Mediterranian
+false
+true
+heat some oil in your pan, cook steak to your liking. Peel Potatoes and cut into strips, place in deep fryer and voila!
+Ingredient:
+88
+steak
+Steakimagepath
+a fine cut steak!
+150
+g
+Ingredient:
+1344
+Potato
+Potatoimagepath
+What a lovely potato!
+75
+g
+##End Of Ingredients##
+Utensil:
+7
+Deep-fryer
+DFImagePath
+Great for chips!
+3
+##End Of Utensils##
